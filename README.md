@@ -5,3 +5,4 @@ Jupyter notebooks used in data explotation technologies to train models.
 Using a patient dataset, we can predict if a patient has a heart disease using a decision tree, naïve bayes or neural network.
 
 ## TP2: Unsupervised trainning
+test
